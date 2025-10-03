@@ -44,7 +44,7 @@ h3 {
     color:#f2167c;
     font-weight: 700;
     font-size: 3dvh;
-    transition: 100ms ease-in-out;
+    transition: 200ms ease-in-out;
     border-color: #f2167c;
     border-style: solid;
     padding: 5px;
@@ -87,3 +87,4 @@ a:hover{
 a:active{
     transform: scale(0.8);
 }
+
